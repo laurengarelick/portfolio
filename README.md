@@ -1,2 +1,2 @@
-# responsive_portfolio
-A portfolio that is responsive
+# Lauren Garelick's Portfolio
+A portfolio showcasing the things learned and projects completed.
